@@ -1,0 +1,3 @@
+# Bharat-Intern-TASK-2
+
+Hi , THis is nishita Rajak i completed my Bharat intern Task 2 (Responsive Blog website )....
